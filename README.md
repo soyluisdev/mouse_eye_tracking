@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# eyetrackingmouse
-Eye-Controlled Mouse Using Mediapipe and OpenCV
-=======
 # Eye-Controlled Mouse Using Mediapipe and OpenCV
 
 This project uses a webcam to capture video, track facial landmarks with [Mediapipe](https://mediapipe.dev/), and control the mouse pointer based on eye movements. The program tracks the user's gaze to move the mouse and simulates a click when the user blinks. This hands-free control setup can be useful for accessibility applications or experimentation.
