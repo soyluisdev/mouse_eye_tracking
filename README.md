@@ -17,7 +17,7 @@ This project uses a webcam to capture video, track facial landmarks with [Mediap
   - `pyautogui`
 
 You can install the required packages using:
-pip install opencv-python mediapipe pyautogui
+- `pip install opencv-python mediapipe pyautogui`
 
 ## Usage
 1. Clone the repository
