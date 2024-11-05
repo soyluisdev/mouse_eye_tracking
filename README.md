@@ -17,6 +17,15 @@ This project uses a webcam to capture video, track facial landmarks with [Mediap
   - `pyautogui`
 
 You can install the required packages using:
-```bash
 pip install opencv-python mediapipe pyautogui
 >>>>>>> 0e8bd42 (Basic functions of tracking and clicking added)
+
+## Usage
+1. Clone the repository
+git clone https://github.com/your-username/eye-controlled-mouse.git  
+cd eye-controlled-mouse  
+
+2. Run the script  
+python eye_controlled_mouse.py  
+
+3. Position yourself in front of your webcam. The program will detect your face and begin tracking your eyes. Moving your gaze will move the mouse pointer, and a blink will simulate a click.  
